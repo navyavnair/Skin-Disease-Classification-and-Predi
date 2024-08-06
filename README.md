@@ -15,6 +15,8 @@ The dataset consists of images classified into the following categories:
 8. Tinea Ringworm Candidiasis
 9. Vascular lesion
 
+## **Link to Dataset**: https://drive.google.com/file/d/1lTzePvHIiaj8MwUiJNWErs9CZNaZKfsh/view?usp=sharing 
+
 ## Models Used
 
 We experimented with several deep learning models for the classification task:
